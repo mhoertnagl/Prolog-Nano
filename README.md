@@ -28,9 +28,6 @@ term : PREDICATE '(' terms ')'
 This grammar is rather simplistic and allows non-sensical input like A :- a. Or a :- A.
 
 * https://en.wikipedia.org/wiki/Twelve_Olympians
-* 
-* db is wrong name should be program again.
-* Pretty Print
 * List support
 * Numbers?
 * Strings
