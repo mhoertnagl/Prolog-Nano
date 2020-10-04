@@ -1,0 +1,2 @@
+# run="python main.py examples/olympos.pl"
+run="python test.py"
