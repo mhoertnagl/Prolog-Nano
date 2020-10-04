@@ -31,7 +31,6 @@ This grammar is rather simplistic and allows non-sensical input like A :- a. Or 
 * List support
 * Numbers?
 * Strings
-* Extensive example - greek pantheon
 * other examples from Prolog books
 * https://github.com/maldoinc/mamba/blob/master/setup.py
 
